@@ -1,0 +1,11 @@
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_01_trafficLight\bin\Debug\netcoreapp3.1\Homework_01_trafficLight.exe
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_01_trafficLight\bin\Debug\netcoreapp3.1\Homework_01_trafficLight.deps.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_01_trafficLight\bin\Debug\netcoreapp3.1\Homework_01_trafficLight.runtimeconfig.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_01_trafficLight\bin\Debug\netcoreapp3.1\Homework_01_trafficLight.runtimeconfig.dev.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_01_trafficLight\bin\Debug\netcoreapp3.1\Homework_01_trafficLight.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_01_trafficLight\bin\Debug\netcoreapp3.1\Homework_01_trafficLight.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_01_trafficLight\obj\Debug\netcoreapp3.1\Homework_01_trafficLight.csprojAssemblyReference.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_01_trafficLight\obj\Debug\netcoreapp3.1\Homework_01_trafficLight.AssemblyInfoInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_01_trafficLight\obj\Debug\netcoreapp3.1\Homework_01_trafficLight.AssemblyInfo.cs
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_01_trafficLight\obj\Debug\netcoreapp3.1\Homework_01_trafficLight.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_01_trafficLight\obj\Debug\netcoreapp3.1\Homework_01_trafficLight.pdb
