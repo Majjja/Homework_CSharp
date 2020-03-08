@@ -24,7 +24,8 @@ namespace Homework_02
             Console.WriteLine("Say Something:");
             string input = Console.ReadLine();
             int num = 1;
-            Console.WriteLine($"{num}. {input}");
+            var theInput = $"{num}. {input}";
+            Console.WriteLine(theInput);
             #endregion
 
             //Exercise_03
@@ -44,15 +45,11 @@ namespace Homework_02
 
             if (convertedNumber)
             {
-                if(number % 2 == 0)
-                {
-                    Console.WriteLine($"{convertedNumber} - The Number { number} is Even number.");
-                } else
-                {
-                    Console.WriteLine($"{convertedNumber} - The Number { number} is Odd number.");
-
-                }
-            } else
+                var theNumber = number % 2 == 0 ? $"{convertedNumber} - The Number {number} is Even number." 
+                    : $"{convertedNumber} - The Number {number} is Odd number.";
+                Console.WriteLine(theNumber);
+            }
+            else
             {
                 Console.WriteLine($"{convertedNumber} - You didn't enter any number and the value is {number}.");
             }
