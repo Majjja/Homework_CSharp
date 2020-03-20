@@ -81,22 +81,28 @@ namespace Homework_Class_3
             //Do the same process over and over until the user enters N​
             //Print all the names after user enters N​
 
-            //string[] names = new string[20];
+            //string[] names = new string[] { };
             //var index = 0;
+
             //Console.WriteLine("Please enter a name:");
+
             //while (true)
             //{
             //    string userName = Console.ReadLine();
-            //    if (userName.Length > 1)
+            //    index++;
+            //    Array.Resize(ref names, index + 1);
+            //    names[index] = userName;
+
+            //    Console.WriteLine("If you like to enter another name press \"Y\", otherwise press \"N\":");
+            //    string userInput = Console.ReadLine();
+            //    if (userInput.ToUpper() == "Y")
             //    {
-            //        names[index] = userName;
-            //        index++;
+            //        Console.WriteLine("Please enter a name:");
+            //        continue;
             //    }
-            //    Console.WriteLine("if you like to enter another name go on, otherwise press n");
-            //    if (userName.ToLower() == "n")
+            //    else if (userInput.ToUpper() == "N")
             //    {
-            //        Console.WriteLine("\n");
-            //        Console.WriteLine("Array of Names:");
+            //        Console.WriteLine("\nArray of Names:");
             //        foreach (var name in names)
             //        {
             //            Console.WriteLine(name);
@@ -156,10 +162,10 @@ namespace Homework_Class_3
             //Console.WriteLine("Enter number of trees to find out how many baskets does it take to collect all the apples from the trees:");
             //int numOfTrees;
             //bool apples = int.TryParse(Console.ReadLine(), out numOfTrees);
-            //int result = (numOfTrees * (branchesOnTree * applesOnBrach)) / basketWithApples;
 
             //if (apples)
             //{
+            //    int result = (numOfTrees * (branchesOnTree * applesOnBrach)) / basketWithApples;
             //    Console.WriteLine($"It takes {result} baskets!");
             //}
             //else
