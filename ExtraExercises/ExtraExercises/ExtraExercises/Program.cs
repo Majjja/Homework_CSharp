@@ -23,7 +23,6 @@ namespace ExtraExercises
             Console.Write("\n");
             #endregion
 
-
             //2.Write a program in C# Sharp to read 10 numbers from keyboard and find their sum and average.
             //Console.WriteLine("Enter 10 numbers:");
             #region
@@ -49,7 +48,6 @@ namespace ExtraExercises
             Console.WriteLine($"The sum of numbers you entered is: {sumOfNums} and the average is {avg / arrOfNums.Length}");
             #endregion
 
-
             //3.Declare and init array of 10 integers by your choise. 
             //   Find maximum and minimum element in that array and their indexes.
             #region
@@ -65,8 +63,25 @@ namespace ExtraExercises
                 $"Minimum number is: {min}, index: {Array.IndexOf(arrOfNums2, min)}");
             #endregion
 
+            //4.arrayWithDuplicates = [1, 4, 6, 3, 4, 5, 9, 3, 2, 9]
+            //  Write a program in C# Sharp to count a total number of duplicate elements in arrayWithDuplicates
+            #region
+            int[] arrayWithDuplicates = new int[] { 1, 4, 6, 3, 4, 5, 9, 3, 2, 9 };
+            int count = 0;
+            for (int i = 0; i < arrayWithDuplicates.Length; i++)
+            {
+                for (int j = i + 1; j < arrayWithDuplicates.Length; j++)
+                {
+                    if (arrayWithDuplicates[i] == arrayWithDuplicates[j])
+                    {
+                        count++;
+                    }
+                }
+            }
+            Console.WriteLine(count);
+            #endregion
 
-            //4.oddEvenArray = [10, 23, 44, 123, 55, 52, 98, 99, 102, 103, 152, 49]
+            //5.oddEvenArray = [10, 23, 44, 123, 55, 52, 98, 99, 102, 103, 152, 49]
             //   Write a program in C# Sharp to separate odd and even integers from the oddEvenArray in separate arrays
             #region
             int[] oddEvenArray = new int[] { 10, 23, 44, 123, 55, 52, 98, 99, 102, 103, 152, 49 };
@@ -89,13 +104,14 @@ namespace ExtraExercises
             }
             #endregion
 
-
-            //5.Write a program in C# Sharp to read any Day Number in integer (from 1 to 7) and display on screen
+            //6.Write a program in C# Sharp to read any Day Number in integer (from 1 to 7) and display on screen
             //   the day with strings.Example: user enters 1, you should print Monday.
             #region
             string[] days = new string[7] { "Monday", "Tuesday", "Wednesday", "Thirstday", "Friday", "Saturday", "Sunday" };
+            Console.WriteLine("\nPlease enter a number of day in the week");
+            var userDayInput = Console.ReadLine();
             int numOfDay;
-            bool parsedNumOfDay = int.TryParse(Console.ReadLine(), out numOfDay);
+            bool parsedNumOfDay = int.TryParse(userDayInput, out numOfDay);
 
             if (parsedNumOfDay)
             {
@@ -117,112 +133,45 @@ namespace ExtraExercises
             else Console.WriteLine("Wrong input. Please try again.");
             #endregion
 
-            //6.userNames = ["user1", "user2", "user3"]
+            //7.userNames = ["user1", "user2", "user3"]
             //   passwords = ["first", "second", "third"]
             //   Write a program in C# Sharp to ask the user to enter a username. After that user should provide a password.
             //   Create a logic when user enters specific username to provide a correct password for that user, and when that
             //   happens you should print on the screen "You are logged in successfully".
             //   If username or password are invalid or don't correspond "Incorrect username or password" should be print on the screen and 
             //   repeat the proccess from begining while he / she doesn't input correct username and password.
-
-
             //   Note: Every element in userNames corresponds with the element in passwords at same index.
             //   Example: password for "user1" is "first", password for "user2" is "second", password for "user3" is "third".
             #region
-            //string[] userNames = new string[3] { "user1", "user2", "user3" };
-            //string[] passwords = new string[3] { "first", "second", "third" };
+            string[] userNames = new string[3] { "user1", "user2", "user3" };
+            string[] passwords = new string[3] { "first", "second", "third" };
+            while (true)
+            {
+                Console.WriteLine("Please enter your username:");
+                string user = Console.ReadLine();
+                Console.WriteLine("Please enter your password:");
+                string usersPass = Console.ReadLine();
 
-            //CASE_1 
-            //while (true)
-            //{
-            //    Console.WriteLine("Please enter your username:");
-            //    string user = Console.ReadLine();
-            //    Console.WriteLine("Please enter your password:");
-            //    string usersPass = Console.ReadLine();
-            //    foreach (var name in userNames)
-            //    {
-            //        foreach (var pass in passwords)
-            //        {
-            //            if (user == name && usersPass == pass)
-            //            {
-            //                if (Array.IndexOf(userNames, user) == Array.IndexOf(passwords, usersPass))
-            //                {
-            //                    Console.WriteLine("You are logged in successfully");
-            //                    break;
-            //                }
-            //                else
-            //                {
-            //                    Console.WriteLine("Incorrect username or password");
-            //                    break;
-            //                }                        
-            //            }
-            //        }
-            //    }
-            //}
-
-
-            //CASE_2 
-            //while (true)
-            //{
-            //    Console.WriteLine("Please enter your username:");
-            //    string user = Console.ReadLine();
-            //    Console.WriteLine("Please enter your password:");
-            //    string pass = Console.ReadLine();
-            //    for (int i = 0; i < userNames.Length; i++)
-            //    {
-            //        for (int j = 0; j < passwords.Length; j++)
-            //        {
-            //            if (user == userNames[i] && pass == passwords[j])
-            //            {
-            //                if (Array.IndexOf(userNames, user) == Array.IndexOf(passwords, pass))
-            //                {
-            //                    Console.WriteLine("You are logged in successfully");
-            //                    break;
-            //                }
-            //                if (Array.IndexOf(userNames, user) != Array.IndexOf(passwords, pass))
-            //                {
-            //                    Console.WriteLine("Incorrect username or password");
-            //                }
-            //            }
-            //        }
-            //    }
-            //}
-
-
-            //CASE_3
-            //while (true)
-            //{
-            //    Console.WriteLine("Please enter your username:");
-            //    string user = Console.ReadLine();
-            //    Console.WriteLine("Please enter your password:");
-            //    string usersPass = Console.ReadLine();
-            //    int indexOfName = 0;
-            //    int indexOfPass = 0;
-
-            //    foreach (var name in userNames)
-            //    {
-            //        if (name == user)
-            //        {
-            //            indexOfName += Array.IndexOf(userNames, user);
-            //        }
-            //    }
-            //    foreach (var pass in passwords)
-            //    {
-            //        if (pass == usersPass)
-            //        {
-            //            indexOfPass = Array.IndexOf(passwords, usersPass);
-            //        }
-            //    }
-            //    if (indexOfName == indexOfPass)
-            //    {
-            //        Console.WriteLine("You are logged in successfully");
-            //        break;
-            //    }
-            //    else
-            //    {
-            //        Console.WriteLine("Incorrect username or password");
-            //    }
-            //}
+                int indexOfName = 0;
+                int indexOfPass = 1;
+                
+                foreach (var name in userNames)
+                {
+                    if (name == user)
+                        indexOfName = Array.IndexOf(userNames, user);
+                }
+                foreach (var pass in passwords)
+                {
+                    if (pass == usersPass)
+                        indexOfPass = Array.IndexOf(passwords, usersPass);
+                }
+                if (indexOfName == indexOfPass)
+                {
+                    Console.WriteLine("You are logged in successfully");
+                    break;
+                }
+                else Console.WriteLine("Incorrect username or password");
+            }
             #endregion
             Console.ReadLine();
         }
