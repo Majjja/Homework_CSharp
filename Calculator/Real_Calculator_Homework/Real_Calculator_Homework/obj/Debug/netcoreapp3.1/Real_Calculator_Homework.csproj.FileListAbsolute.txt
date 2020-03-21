@@ -1,0 +1,10 @@
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Calculator\Real_Calculator_Homework\Real_Calculator_Homework\bin\Debug\netcoreapp3.1\Real_Calculator_Homework.exe
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Calculator\Real_Calculator_Homework\Real_Calculator_Homework\bin\Debug\netcoreapp3.1\Real_Calculator_Homework.deps.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Calculator\Real_Calculator_Homework\Real_Calculator_Homework\bin\Debug\netcoreapp3.1\Real_Calculator_Homework.runtimeconfig.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Calculator\Real_Calculator_Homework\Real_Calculator_Homework\bin\Debug\netcoreapp3.1\Real_Calculator_Homework.runtimeconfig.dev.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Calculator\Real_Calculator_Homework\Real_Calculator_Homework\bin\Debug\netcoreapp3.1\Real_Calculator_Homework.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Calculator\Real_Calculator_Homework\Real_Calculator_Homework\bin\Debug\netcoreapp3.1\Real_Calculator_Homework.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Calculator\Real_Calculator_Homework\Real_Calculator_Homework\obj\Debug\netcoreapp3.1\Real_Calculator_Homework.AssemblyInfoInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Calculator\Real_Calculator_Homework\Real_Calculator_Homework\obj\Debug\netcoreapp3.1\Real_Calculator_Homework.AssemblyInfo.cs
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Calculator\Real_Calculator_Homework\Real_Calculator_Homework\obj\Debug\netcoreapp3.1\Real_Calculator_Homework.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Calculator\Real_Calculator_Homework\Real_Calculator_Homework\obj\Debug\netcoreapp3.1\Real_Calculator_Homework.pdb
