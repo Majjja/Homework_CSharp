@@ -66,7 +66,7 @@ namespace ExtraExercises
             //4.arrayWithDuplicates = [1, 4, 6, 3, 4, 5, 9, 3, 2, 9]
             //  Write a program in C# Sharp to count a total number of duplicate elements in arrayWithDuplicates
             #region
-            int[] arrayWithDuplicates = new int[] { 1, 4, 6, 3, 4, 5, 9, 3, 2, 9 };
+            int[] arrayWithDuplicates = new int[] { 1, 4, 6, 3, 4, 5, 9, 3, 2, 9, 1, 3 };
             int count = 0;
             for (int i = 0; i < arrayWithDuplicates.Length; i++)
             {
@@ -75,6 +75,7 @@ namespace ExtraExercises
                     if (arrayWithDuplicates[i] == arrayWithDuplicates[j])
                     {
                         count++;
+                        break;
                     }
                 }
             }
@@ -154,7 +155,7 @@ namespace ExtraExercises
 
                 int indexOfName = 0;
                 int indexOfPass = 1;
-                
+
                 foreach (var name in userNames)
                 {
                     if (name == user)
