@@ -9,10 +9,8 @@ namespace Homework_04_Refactored_Calculator
             int count = 0;
             while (true)
             {
-
                 Msg("Enter the operation:");
                 var userOperator = Console.ReadLine();
-
                 if (userOperator == "+" || userOperator == "-" || userOperator == "*" || userOperator == "/")
                 {
                     count++;
@@ -29,16 +27,33 @@ namespace Homework_04_Refactored_Calculator
                         switch (userOperator)
                         {
                             case "+":
-                                Sum(number1, number2);
+                                Console.ForegroundColor = ConsoleColor.Green;
+                                Console.WriteLine($"{number1} + {number2} = {Sum(number1, number2)}");
+                                Console.ResetColor();
                                 break;
                             case "-":
-                                Subtract(number1, number2);
+                                Console.ForegroundColor = ConsoleColor.Green;
+                                Console.WriteLine($"{number1} - {number2} = {Subtract(number1, number2)}");
+                                Console.ResetColor();                              
                                 break;
                             case "*":
-                                Multiply(number1, number2);
+                                Console.ForegroundColor = ConsoleColor.Green;
+                                Console.WriteLine($"{number1} * {number2} = {Multiply(number1, number2)}");
+                                Console.ResetColor();
                                 break;
                             case "/":
-                                Division(number1, number2);                                
+                                if (number2 == 0)
+                                {
+                                    Console.ForegroundColor = ConsoleColor.Red;
+                                    Console.WriteLine("Division with zero is not posible, please try again.");
+                                    Console.ResetColor();
+                                }
+                                else
+                                {
+                                    Console.ForegroundColor = ConsoleColor.Green;
+                                    Console.WriteLine($"{number1} / {number2} = {Division(number1, number2).ToString("0.00")}");
+                                    Console.ResetColor();
+                                }                              
                                 break;
                             default:
                                 Msg("Error occured.");
@@ -79,44 +94,22 @@ namespace Homework_04_Refactored_Calculator
             Console.ReadLine();
         }
         public static double Sum(double first, double second)
-        {
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine($"{first} + {second} = {first + second}");
-            Console.ResetColor();
+        {    
             return first + second;
         }
 
         public static double Subtract(double first, double second)
         {
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine($"{first} - {second} = {first - second}");
-            Console.ResetColor();
             return first - second;
         }
 
         public static double Multiply(double first, double second)
         {
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine($"{first} * {second} = {first * second}");
-            Console.ResetColor();
             return first * second;
         }
 
         public static double Division(double first, double second)
         {
-            double result = first / second;
-            if (second == 0)
-            {
-                Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("Division with zero is not posible, please try again.");
-                Console.ResetColor();
-            }
-            else
-            {
-                Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine($"{first} / {second} = {result.ToString("0.00")}");
-                Console.ResetColor();
-            }
             return first / second;
         }
 
