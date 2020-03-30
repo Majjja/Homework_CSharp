@@ -1,0 +1,11 @@
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class_05\bin\Debug\netcoreapp3.1\Homework_Class_05.exe
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class_05\bin\Debug\netcoreapp3.1\Homework_Class_05.deps.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class_05\bin\Debug\netcoreapp3.1\Homework_Class_05.runtimeconfig.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class_05\bin\Debug\netcoreapp3.1\Homework_Class_05.runtimeconfig.dev.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class_05\bin\Debug\netcoreapp3.1\Homework_Class_05.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class_05\bin\Debug\netcoreapp3.1\Homework_Class_05.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class_05\obj\Debug\netcoreapp3.1\Homework_Class_05.csprojAssemblyReference.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class_05\obj\Debug\netcoreapp3.1\Homework_Class_05.AssemblyInfoInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class_05\obj\Debug\netcoreapp3.1\Homework_Class_05.AssemblyInfo.cs
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class_05\obj\Debug\netcoreapp3.1\Homework_Class_05.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class_05\obj\Debug\netcoreapp3.1\Homework_Class_05.pdb
