@@ -1,0 +1,11 @@
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Register_Form_upgraded\bin\Debug\netcoreapp3.1\Register_Form_upgraded.exe
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Register_Form_upgraded\bin\Debug\netcoreapp3.1\Register_Form_upgraded.deps.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Register_Form_upgraded\bin\Debug\netcoreapp3.1\Register_Form_upgraded.runtimeconfig.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Register_Form_upgraded\bin\Debug\netcoreapp3.1\Register_Form_upgraded.runtimeconfig.dev.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Register_Form_upgraded\bin\Debug\netcoreapp3.1\Register_Form_upgraded.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Register_Form_upgraded\bin\Debug\netcoreapp3.1\Register_Form_upgraded.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Register_Form_upgraded\obj\Debug\netcoreapp3.1\Register_Form_upgraded.csprojAssemblyReference.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Register_Form_upgraded\obj\Debug\netcoreapp3.1\Register_Form_upgraded.AssemblyInfoInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Register_Form_upgraded\obj\Debug\netcoreapp3.1\Register_Form_upgraded.AssemblyInfo.cs
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Register_Form_upgraded\obj\Debug\netcoreapp3.1\Register_Form_upgraded.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Register_Form_upgraded\obj\Debug\netcoreapp3.1\Register_Form_upgraded.pdb
