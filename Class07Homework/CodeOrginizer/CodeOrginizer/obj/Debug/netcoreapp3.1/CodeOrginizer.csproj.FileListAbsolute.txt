@@ -1,0 +1,11 @@
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class07Homework\CodeOrginizer\CodeOrginizer\bin\Debug\netcoreapp3.1\CodeOrginizer.exe
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class07Homework\CodeOrginizer\CodeOrginizer\bin\Debug\netcoreapp3.1\CodeOrginizer.deps.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class07Homework\CodeOrginizer\CodeOrginizer\bin\Debug\netcoreapp3.1\CodeOrginizer.runtimeconfig.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class07Homework\CodeOrginizer\CodeOrginizer\bin\Debug\netcoreapp3.1\CodeOrginizer.runtimeconfig.dev.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class07Homework\CodeOrginizer\CodeOrginizer\bin\Debug\netcoreapp3.1\CodeOrginizer.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class07Homework\CodeOrginizer\CodeOrginizer\bin\Debug\netcoreapp3.1\CodeOrginizer.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class07Homework\CodeOrginizer\CodeOrginizer\obj\Debug\netcoreapp3.1\CodeOrginizer.csprojAssemblyReference.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class07Homework\CodeOrginizer\CodeOrginizer\obj\Debug\netcoreapp3.1\CodeOrginizer.AssemblyInfoInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class07Homework\CodeOrginizer\CodeOrginizer\obj\Debug\netcoreapp3.1\CodeOrginizer.AssemblyInfo.cs
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class07Homework\CodeOrginizer\CodeOrginizer\obj\Debug\netcoreapp3.1\CodeOrginizer.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class07Homework\CodeOrginizer\CodeOrginizer\obj\Debug\netcoreapp3.1\CodeOrginizer.pdb
