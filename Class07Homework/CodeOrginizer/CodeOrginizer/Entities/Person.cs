@@ -5,7 +5,7 @@ using CodeOrginizer.Enums;
 
 namespace CodeOrginizer.Entities
 {
-    class Person
+    public class Person
     {
         public string Name;
         public int Age;
