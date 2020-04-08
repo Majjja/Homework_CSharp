@@ -9,8 +9,7 @@ namespace Task_02
 
         public bool Passed()
         {
-            if (PassedTheCourse) return true;
-            else return false;
+            return PassedTheCourse;
         }
     }
 

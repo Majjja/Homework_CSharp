@@ -8,3 +8,4 @@ D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homewor
 D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class_06\Task_02\obj\Debug\netcoreapp3.1\Task_02.AssemblyInfo.cs
 D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class_06\Task_02\obj\Debug\netcoreapp3.1\Task_02.dll
 D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class_06\Task_02\obj\Debug\netcoreapp3.1\Task_02.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class_06\Task_02\obj\Debug\netcoreapp3.1\Task_02.csprojAssemblyReference.cache
