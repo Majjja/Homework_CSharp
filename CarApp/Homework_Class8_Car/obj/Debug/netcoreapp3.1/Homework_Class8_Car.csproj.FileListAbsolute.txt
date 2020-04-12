@@ -1,0 +1,14 @@
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class8_Car\bin\Debug\netcoreapp3.1\Homework_Class8_Car.exe
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class8_Car\bin\Debug\netcoreapp3.1\Homework_Class8_Car.deps.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class8_Car\bin\Debug\netcoreapp3.1\Homework_Class8_Car.runtimeconfig.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class8_Car\bin\Debug\netcoreapp3.1\Homework_Class8_Car.runtimeconfig.dev.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class8_Car\bin\Debug\netcoreapp3.1\Homework_Class8_Car.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class8_Car\bin\Debug\netcoreapp3.1\Homework_Class8_Car.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class8_Car\obj\Debug\netcoreapp3.1\Homework_Class8_Car.csprojAssemblyReference.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class8_Car\obj\Debug\netcoreapp3.1\Homework_Class8_Car.AssemblyInfoInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class8_Car\obj\Debug\netcoreapp3.1\Homework_Class8_Car.AssemblyInfo.cs
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class8_Car\obj\Debug\netcoreapp3.1\Homework_Class8_Car.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class8_Car\obj\Debug\netcoreapp3.1\Homework_Class8_Car.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class8_Car\bin\Debug\netcoreapp3.1\GenerationOfId.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class8_Car\bin\Debug\netcoreapp3.1\GenerationOfId.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Homework_Class8_Car\obj\Debug\netcoreapp3.1\Homework_Class8_Car.csproj.CopyComplete

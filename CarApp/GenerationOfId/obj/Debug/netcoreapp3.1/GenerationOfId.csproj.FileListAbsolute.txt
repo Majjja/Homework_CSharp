@@ -1,0 +1,8 @@
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\GenerationOfId\bin\Debug\netcoreapp3.1\GenerationOfId.deps.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\GenerationOfId\bin\Debug\netcoreapp3.1\GenerationOfId.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\GenerationOfId\bin\Debug\netcoreapp3.1\GenerationOfId.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\GenerationOfId\obj\Debug\netcoreapp3.1\GenerationOfId.csprojAssemblyReference.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\GenerationOfId\obj\Debug\netcoreapp3.1\GenerationOfId.AssemblyInfoInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\GenerationOfId\obj\Debug\netcoreapp3.1\GenerationOfId.AssemblyInfo.cs
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\GenerationOfId\obj\Debug\netcoreapp3.1\GenerationOfId.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\GenerationOfId\obj\Debug\netcoreapp3.1\GenerationOfId.pdb
