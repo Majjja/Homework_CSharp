@@ -8,9 +8,10 @@ namespace Homework_Class8_Car.Entities
     {
         public Car()
         {
-            GenerateId.RandomGenerateId();
+            Id = GenerateId.RandomGenerateId();
         }
 
+        private int Id { get; set; }
         public string Brand { get; set; }
         public string Model { get; set; }
         public int Doors { get; set; }
