@@ -1,0 +1,8 @@
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ClassLibrary_Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ClassLibrary_Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ClassLibrary_Calculator\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ClassLibrary_Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ClassLibrary_Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ClassLibrary_Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ClassLibrary_Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ClassLibrary_Calculator\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb

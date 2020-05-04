@@ -1,0 +1,16 @@
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\AcademyApp_Refactored\AcademyApp\AcademyApp\bin\Debug\netcoreapp3.1\AcademyApp.exe
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\AcademyApp_Refactored\AcademyApp\AcademyApp\bin\Debug\netcoreapp3.1\AcademyApp.deps.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\AcademyApp_Refactored\AcademyApp\AcademyApp\bin\Debug\netcoreapp3.1\AcademyApp.runtimeconfig.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\AcademyApp_Refactored\AcademyApp\AcademyApp\bin\Debug\netcoreapp3.1\AcademyApp.runtimeconfig.dev.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\AcademyApp_Refactored\AcademyApp\AcademyApp\bin\Debug\netcoreapp3.1\AcademyApp.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\AcademyApp_Refactored\AcademyApp\AcademyApp\bin\Debug\netcoreapp3.1\AcademyApp.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\AcademyApp_Refactored\AcademyApp\AcademyApp\obj\Debug\netcoreapp3.1\AcademyApp.csprojAssemblyReference.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\AcademyApp_Refactored\AcademyApp\AcademyApp\obj\Debug\netcoreapp3.1\AcademyApp.csproj.CoreCompileInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\AcademyApp_Refactored\AcademyApp\AcademyApp\obj\Debug\netcoreapp3.1\AcademyApp.AssemblyInfoInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\AcademyApp_Refactored\AcademyApp\AcademyApp\obj\Debug\netcoreapp3.1\AcademyApp.AssemblyInfo.cs
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\AcademyApp_Refactored\AcademyApp\AcademyApp\obj\Debug\netcoreapp3.1\AcademyApp.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\AcademyApp_Refactored\AcademyApp\AcademyApp\obj\Debug\netcoreapp3.1\AcademyApp.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\AcademyApp_Refactored\AcademyApp\AcademyApp\obj\Debug\netcoreapp3.1\AcademyApp.genruntimeconfig.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\AcademyApp_Refactored\AcademyApp\AcademyApp\bin\Debug\netcoreapp3.1\SubjectServices.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\AcademyApp_Refactored\AcademyApp\AcademyApp\bin\Debug\netcoreapp3.1\SubjectServices.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\AcademyApp_Refactored\AcademyApp\AcademyApp\obj\Debug\netcoreapp3.1\AcademyApp.csproj.CopyComplete

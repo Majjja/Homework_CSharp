@@ -6,3 +6,4 @@ D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class7P
 D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class7Prep\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.AssemblyInfo.cs
 D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class7Prep\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.dll
 D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class7Prep\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class7Prep\SubjectServices\obj\Debug\netcoreapp2.2\SubjectServices.csproj.CoreCompileInputs.cache
