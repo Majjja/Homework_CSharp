@@ -19,11 +19,8 @@ namespace Calculator.Helpers
 
         internal static int FindMin(List<int> numbers)
         {
-            int min = 0;
-            foreach (var number in numbers)
-            {
-                min = number;
-            }
+            int min;
+            min = numbers[0];
             foreach (var number in numbers)
             {
                 if (number < min)
