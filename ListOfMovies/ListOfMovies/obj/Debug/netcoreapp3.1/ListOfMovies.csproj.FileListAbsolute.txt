@@ -1,0 +1,13 @@
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ListOfMovies\ListOfMovies\bin\Debug\netcoreapp3.1\ListOfMovies.exe
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ListOfMovies\ListOfMovies\bin\Debug\netcoreapp3.1\ListOfMovies.deps.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ListOfMovies\ListOfMovies\bin\Debug\netcoreapp3.1\ListOfMovies.runtimeconfig.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ListOfMovies\ListOfMovies\bin\Debug\netcoreapp3.1\ListOfMovies.runtimeconfig.dev.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ListOfMovies\ListOfMovies\bin\Debug\netcoreapp3.1\ListOfMovies.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ListOfMovies\ListOfMovies\bin\Debug\netcoreapp3.1\ListOfMovies.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ListOfMovies\ListOfMovies\obj\Debug\netcoreapp3.1\ListOfMovies.csprojAssemblyReference.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ListOfMovies\ListOfMovies\obj\Debug\netcoreapp3.1\ListOfMovies.csproj.CoreCompileInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ListOfMovies\ListOfMovies\obj\Debug\netcoreapp3.1\ListOfMovies.AssemblyInfoInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ListOfMovies\ListOfMovies\obj\Debug\netcoreapp3.1\ListOfMovies.AssemblyInfo.cs
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ListOfMovies\ListOfMovies\obj\Debug\netcoreapp3.1\ListOfMovies.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ListOfMovies\ListOfMovies\obj\Debug\netcoreapp3.1\ListOfMovies.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ListOfMovies\ListOfMovies\obj\Debug\netcoreapp3.1\ListOfMovies.genruntimeconfig.cache
