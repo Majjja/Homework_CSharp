@@ -35,6 +35,8 @@ namespace Products
                 new Product() { Name =  "Samsung Oval", Price = 247999, Category = Category.TV}
             });
 
+            Console.WriteLine(products.Name);
+
             HelperMethods.SearchProductsByCategory(products.Products, Category.LapTop);
 
             HelperMethods.FindProductsByPartOfName(products.Products, "gam");

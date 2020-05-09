@@ -4,13 +4,9 @@ D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Product
 D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Products\Products\bin\Debug\netcoreapp3.1\Products.runtimeconfig.dev.json
 D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Products\Products\bin\Debug\netcoreapp3.1\Products.dll
 D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Products\Products\bin\Debug\netcoreapp3.1\Products.pdb
-D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Products\Products\obj\Debug\netcoreapp3.1\Products.csprojAssemblyReference.cache
 D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Products\Products\obj\Debug\netcoreapp3.1\Products.csproj.CoreCompileInputs.cache
 D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Products\Products\obj\Debug\netcoreapp3.1\Products.AssemblyInfoInputs.cache
 D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Products\Products\obj\Debug\netcoreapp3.1\Products.AssemblyInfo.cs
 D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Products\Products\obj\Debug\netcoreapp3.1\Products.dll
 D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Products\Products\obj\Debug\netcoreapp3.1\Products.pdb
 D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Products\Products\obj\Debug\netcoreapp3.1\Products.genruntimeconfig.cache
-D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Products\Products\bin\Debug\netcoreapp3.1\ProductServices.dll
-D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Products\Products\bin\Debug\netcoreapp3.1\ProductServices.pdb
-D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Products\Products\obj\Debug\netcoreapp3.1\Products.csproj.CopyComplete
