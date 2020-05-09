@@ -1,0 +1,16 @@
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.exe
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.deps.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.runtimeconfig.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.runtimeconfig.dev.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\GameCenter.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\TeamSource.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp3.1\TeamSource.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.csprojAssemblyReference.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.csproj.CoreCompileInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.AssemblyInfoInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.AssemblyInfo.cs
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.csproj.CopyComplete
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp3.1\GameCenter.genruntimeconfig.cache
