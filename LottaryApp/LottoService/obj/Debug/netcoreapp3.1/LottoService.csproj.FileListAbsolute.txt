@@ -1,0 +1,9 @@
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottoService\bin\Debug\netcoreapp3.1\LottoService.deps.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottoService\bin\Debug\netcoreapp3.1\LottoService.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottoService\bin\Debug\netcoreapp3.1\LottoService.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottoService\obj\Debug\netcoreapp3.1\LottoService.csproj.CoreCompileInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottoService\obj\Debug\netcoreapp3.1\LottoService.AssemblyInfoInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottoService\obj\Debug\netcoreapp3.1\LottoService.AssemblyInfo.cs
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottoService\obj\Debug\netcoreapp3.1\LottoService.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottoService\obj\Debug\netcoreapp3.1\LottoService.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottoService\obj\Debug\netcoreapp3.1\LottoService.csprojAssemblyReference.cache

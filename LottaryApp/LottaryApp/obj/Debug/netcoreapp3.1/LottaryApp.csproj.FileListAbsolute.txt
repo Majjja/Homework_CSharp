@@ -1,0 +1,16 @@
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottaryApp\bin\Debug\netcoreapp3.1\LottaryApp.exe
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottaryApp\bin\Debug\netcoreapp3.1\LottaryApp.deps.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottaryApp\bin\Debug\netcoreapp3.1\LottaryApp.runtimeconfig.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottaryApp\bin\Debug\netcoreapp3.1\LottaryApp.runtimeconfig.dev.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottaryApp\bin\Debug\netcoreapp3.1\LottaryApp.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottaryApp\bin\Debug\netcoreapp3.1\LottaryApp.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottaryApp\obj\Debug\netcoreapp3.1\LottaryApp.csprojAssemblyReference.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottaryApp\obj\Debug\netcoreapp3.1\LottaryApp.csproj.CoreCompileInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottaryApp\obj\Debug\netcoreapp3.1\LottaryApp.AssemblyInfoInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottaryApp\obj\Debug\netcoreapp3.1\LottaryApp.AssemblyInfo.cs
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottaryApp\obj\Debug\netcoreapp3.1\LottaryApp.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottaryApp\obj\Debug\netcoreapp3.1\LottaryApp.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottaryApp\obj\Debug\netcoreapp3.1\LottaryApp.genruntimeconfig.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottaryApp\bin\Debug\netcoreapp3.1\LottoService.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottaryApp\bin\Debug\netcoreapp3.1\LottoService.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\LottaryApp\LottaryApp\obj\Debug\netcoreapp3.1\LottaryApp.csproj.CopyComplete
