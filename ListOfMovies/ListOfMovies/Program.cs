@@ -1,4 +1,5 @@
-﻿using ListOfMovies.Helpers;
+﻿using ListOfMovies.Entities;
+using ListOfMovies.Helpers;
 using System;
 using System.Linq;
 using System.Security.Cryptography;
@@ -161,8 +162,8 @@ namespace ListOfMovies
             //Query syntax
             Console.WriteLine("------------------------------------------");
             var allMoviesTitlesAndRatings2 = (from movie in movies
+                                              orderby movie.Duration descending
                                               select movie)
-                                             .OrderByDescending(movie => movie.Duration)
                                              .Select(movie => new { movie.Title, movie.Rating })
                                              .ToList();
             allMoviesTitlesAndRatings2.ForEach(movie => Console.WriteLine($"Title: {movie.Title}, Rating: {movie.Rating}"));

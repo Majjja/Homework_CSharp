@@ -148,16 +148,9 @@ namespace GameCenter
 
             // 16.  Find the team which has the player with highest PtsPerGame
             var playerWithHighestPtsPerGame = playersWithHighestPts.FirstOrDefault();
-            var teamWithPlayerWithHighestPtsPerGame = teams.GroupBy(team => team.Name).ToList();
-            foreach (var team in teamWithPlayerWithHighestPtsPerGame)
-            {
-                foreach (var player in team)
-                {
-                    if (player.Players.Contains(playerWithHighestPtsPerGame))
-                        Console.WriteLine($"Team: {team.Key}, Player: {playerWithHighestPtsPerGame.FullName}");
-                }
-            }
-
+            var teamWithPlayerWithHighestPtsPerGame = teams
+                                                        .FirstOrDefault(team => team.Players.Contains(playerWithHighestPtsPerGame));
+            Console.WriteLine($"Team: {teamWithPlayerWithHighestPtsPerGame.Name}, Player: {playerWithHighestPtsPerGame.FullName}");
             Console.WriteLine("-----------------------------");
 
             // 17.  Find first 4 players with highest RebPerGame and order them by PtsPerGame - ASC
