@@ -1,0 +1,16 @@
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.csproj.CoreCompileInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.AssemblyInfoInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.AssemblyInfo.cs
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.exe
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.deps.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.runtimeconfig.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.runtimeconfig.dev.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\WebApi.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\WebApi.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.csproj.CopyComplete
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.genruntimeconfig.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.csprojAssemblyReference.cache

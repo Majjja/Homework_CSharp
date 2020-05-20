@@ -1,0 +1,9 @@
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj.CoreCompileInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
+D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\WebApi\obj\Debug\netcoreapp3.1\WebApi.csprojAssemblyReference.cache

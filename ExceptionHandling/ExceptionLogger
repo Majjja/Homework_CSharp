@@ -1,0 +1,3 @@
+Name: NullReferenceException
+Message: Object reference not set to an instance of an object.
+Stack Trace:    at FakeFacebook.Program.Main(String[] args) in D:\WEB DEVELOPER\SEDC Code Academy\5. C#_Basic\HOMEWORKS\Homework_CSharp\ExceptionHandling\FakeFacebook\Program.cs:line 57
